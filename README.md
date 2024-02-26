@@ -21,6 +21,8 @@ https://www.amazon.co.uk/Transformers-Natural-Language-Processing-architectures/
 ## Libraries used
 
 gensim==4.3.2
+
 numpy==1.25.0
+
 scipy==1.10.1
 
