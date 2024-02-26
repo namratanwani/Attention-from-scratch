@@ -8,7 +8,7 @@ There are two parts:
 2. Attention with Word2vec embeddings.
 
 
-![Image](attachment:image.png)
+![Image](image.png)
 
 We implement this part of the transformer's architecture from https://arxiv.org/pdf/1706.03762.pdf
 
